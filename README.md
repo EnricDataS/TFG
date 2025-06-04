@@ -25,3 +25,8 @@ This repository is part of a broader project on LAI reconstruction. For full con
 
 👉 [Main Project Repository on GitLab](<insert-gitlab-link-here>)
 
+---
+
+**Author:** Enric Millán Iglesias  
+Bachelor's Final Thesis (TFG) in Data Science and Engineering, Universitat Politècnica de Catalunya (UPC)  
+Internship at Barcelona Supercomputing Center (BSC), 2025
