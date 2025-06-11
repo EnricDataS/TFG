@@ -23,7 +23,7 @@ Open the notebooks in Google Colab to explore or reproduce experiments. Each not
 
 This repository is part of a broader project on LAI reconstruction. For full context, datasets, and code and model details, see the main project repo:
 
-👉 [Main Project Repository on GitLab](<insert-gitlab-link-here>)
+👉 [Main Project Repository on GitLab (only testing folder)](https://earth.bsc.es/gitlab/ces/ai4land_public/-/tree/TFG_Enric_2025/CERISE/ml/LAI/testing)
 
 ---
 
